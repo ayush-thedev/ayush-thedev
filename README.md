@@ -19,8 +19,8 @@ Wanna go through my profile? I challenge you to a 1v1 of Tic-Tac-Toe.
     <td align="center"><a href="https://github.com/ayush-thedev/ayush-thedev/issues/new?title=ttc%7C5&body=Just%20click%20the%20%22Create%22%20button.%20That%20places%20your%20move%20on%20the%20Tic-Tac-Toe%20grid."><img src="./assets/blank.svg" width="60" /></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/ayush-thedev/ayush-thedev/issues/new?title=ttc%7C6&body=Just%20click%20the%20%22Create%22%20button.%20That%20places%20your%20move%20on%20the%20Tic-Tac-Toe%20grid."><img src="./assets/blank.svg" width="60" /></a></td>
-    <td align="center"><a href="https://github.com/ayush-thedev/ayush-thedev/issues/new?title=ttc%7C7&body=Just%20click%20the%20%22Create%22%20button.%20That%20places%20your%20move%20on%20the%20Tic-Tac-Toe%20grid."><img src="./assets/blank.svg" width="60" /></a></td>
+    <td align="center"><img src="./assets/o.svg" width="60" /></td>
+    <td align="center"><img src="./assets/x.svg" width="60" /></td>
     <td align="center"><img src="./assets/x.svg" width="60" /></td>
   </tr>
 </table>
