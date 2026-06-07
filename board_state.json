@@ -1,8 +1,8 @@
 {
   "board": [
     null,
-    null,
-    null,
+    "O",
+    "X",
     null,
     "O",
     null,
