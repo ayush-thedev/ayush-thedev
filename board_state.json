@@ -2,14 +2,14 @@
   "board": [
     "X",
     "O",
-    null,
-    null,
     "O",
     null,
     "O",
     "X",
+    "O",
+    "X",
     "X"
   ],
-  "status": "playing",
-  "winner": null
+  "status": "finished",
+  "winner": "O"
 }

@@ -11,12 +11,12 @@ Wanna go through my profile? I challenge you to a 1v1 of Tic-Tac-Toe.
   <tr>
     <td align="center"><img src="./assets/x.svg" width="60" /></td>
     <td align="center"><img src="./assets/o.svg" width="60" /></td>
-    <td align="center"><a href="https://github.com/ayush-thedev/ayush-thedev/issues/new?title=ttc%7C2&body=Just%20click%20the%20%22Create%22%20button.%20That%20places%20your%20move%20on%20the%20Tic-Tac-Toe%20grid."><img src="./assets/blank.svg" width="60" /></a></td>
+    <td align="center"><img src="./assets/o.svg" width="60" /></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/ayush-thedev/ayush-thedev/issues/new?title=ttc%7C3&body=Just%20click%20the%20%22Create%22%20button.%20That%20places%20your%20move%20on%20the%20Tic-Tac-Toe%20grid."><img src="./assets/blank.svg" width="60" /></a></td>
+    <td align="center"><img src="./assets/blank.svg" width="60" /></td>
     <td align="center"><img src="./assets/o.svg" width="60" /></td>
-    <td align="center"><a href="https://github.com/ayush-thedev/ayush-thedev/issues/new?title=ttc%7C5&body=Just%20click%20the%20%22Create%22%20button.%20That%20places%20your%20move%20on%20the%20Tic-Tac-Toe%20grid."><img src="./assets/blank.svg" width="60" /></a></td>
+    <td align="center"><img src="./assets/x.svg" width="60" /></td>
   </tr>
   <tr>
     <td align="center"><img src="./assets/o.svg" width="60" /></td>
@@ -25,7 +25,7 @@ Wanna go through my profile? I challenge you to a 1v1 of Tic-Tac-Toe.
   </tr>
 </table>
 
-**Status:** Your turn! Click an empty cell to place your **X**.
+**Status:** 💀 The Machine Wins. <br/> <a href="https://github.com/ayush-thedev/ayush-thedev/issues/new?title=ttc%7Crestart&body=Just%20click%20the%20%22Create%22%20button.%20That%20places%20your%20move%20on%20the%20Tic-Tac-Toe%20grid.">Click here to Restart</a>
 <!-- BOARD_END -->
 
 <br/>
