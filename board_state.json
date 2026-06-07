@@ -1,15 +1,15 @@
 {
   "board": [
-    "X",
-    "O",
     null,
     null,
-    "O",
     null,
-    "X",
-    "O",
-    "X"
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
   ],
-  "status": "finished",
-  "winner": "O"
+  "status": "playing",
+  "winner": null
 }
