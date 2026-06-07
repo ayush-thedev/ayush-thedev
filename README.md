@@ -6,10 +6,6 @@ Wanna go through my profile? I challenge you to a 1v1 of Tic-Tac-Toe.
 
 <br/>
 
-Find me @ [![Portfolio](https://img.shields.io/badge/PORTFOLIO-E85D04?style=for-the-badge)](https://ayush-thedev.github.io/Portfolio/)
-
-<br/>
-
 <!-- BOARD_START -->
 <table>
   <tr>
@@ -34,6 +30,11 @@ Find me @ [![Portfolio](https://img.shields.io/badge/PORTFOLIO-E85D04?style=for-
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-E85D04?style=for-the-badge)](https://ayush-thedev.github.io/Portfolio/)
+
+<br/>
+
 *Game powered by GitHub Actions. Every click creates an issue that triggers a Node.js script to update the board.*
 
 </div>
+
