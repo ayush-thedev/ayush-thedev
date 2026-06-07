@@ -30,11 +30,11 @@ Wanna go through my profile? I challenge you to a 1v1 of Tic-Tac-Toe.
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-E85D04?style=for-the-badge)](https://ayush-thedev.github.io/Portfolio/)
+*Game powered by GitHub Actions. Every click creates an issue that triggers a Node.js script to update the board.*
 
 <br/>
 
-*Game powered by GitHub Actions. Every click creates an issue that triggers a Node.js script to update the board.*
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-E85D04?style=for-the-badge)](https://ayush-thedev.github.io/Portfolio/)
 
 </div>
 
