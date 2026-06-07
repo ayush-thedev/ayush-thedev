@@ -1,0 +1,5 @@
+# Ignore local web version of Tic-Tac-Toe
+index.html
+
+# Ignore product requirement document
+TIC_TAC_TOE_PRD.md
