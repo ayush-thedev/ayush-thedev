@@ -80,7 +80,8 @@ function generateMarkdownBoard(state, repoUrl) {
         imgLink = `<img src="./assets/o.svg" width="60" />`;
       } else {
         if (status === 'playing') {
-          const issueLink = `https://github.com/${repoUrl}/issues/new?title=ttc%7C${idx}`;
+          const bodyText = encodeURIComponent('Just click the "Create" button. That places your move on the Tic-Tac-Toe grid.');
+          const issueLink = `https://github.com/${repoUrl}/issues/new?title=ttc%7C${idx}&body=${bodyText}`;
           imgLink = `<a href="${issueLink}"><img src="./assets/blank.svg" width="60" /></a>`;
         } else {
           imgLink = `<img src="./assets/blank.svg" width="60" />`;
@@ -96,7 +97,8 @@ function generateMarkdownBoard(state, repoUrl) {
     const msg = winner === 'X' ? "🎉 You defeated the unbeatable AI (Wait, that's impossible!)" 
               : winner === 'O' ? "💀 The Machine Wins." 
               : "🤝 It's a Draw!";
-    md += `**Status:** ${msg} <br/> <a href="https://github.com/${repoUrl}/issues/new?title=ttc%7Crestart">Click here to Restart</a>`;
+    const bodyText = encodeURIComponent('Just click the "Create" button. That places your move on the Tic-Tac-Toe grid.');
+    md += `**Status:** ${msg} <br/> <a href="https://github.com/${repoUrl}/issues/new?title=ttc%7Crestart&body=${bodyText}">Click here to Restart</a>`;
   } else {
     md += `**Status:** Your turn! Click an empty cell to place your **X**.`;
   }
