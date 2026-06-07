@@ -6,10 +6,10 @@
     null,
     "O",
     null,
-    null,
-    null,
+    "X",
+    "O",
     "X"
   ],
-  "status": "playing",
-  "winner": null
+  "status": "finished",
+  "winner": "O"
 }
